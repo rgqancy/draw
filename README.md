@@ -1,2 +1,2 @@
 # draw
-用于存放draw.io的数据
+用于存放draw.julyme.com的数据
